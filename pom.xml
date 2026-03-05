@@ -10,7 +10,7 @@
 
     <groupId>com.jamesward</groupId>
     <artifactId>pooch-palace</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <name>Pooch Palace Agent Skills</name>
@@ -35,7 +35,7 @@
         <connection>scm:git:https://github.com/jamesward/pooch-palace.git</connection>
         <developerConnection>scm:git:https://github.com/jamesward/pooch-palace.git</developerConnection>
         <url>https://github.com/jamesward/pooch-palace</url>
-      <tag>HEAD</tag>
+      <tag>pooch-palace-0.0.1</tag>
   </scm>
 
     <properties>
