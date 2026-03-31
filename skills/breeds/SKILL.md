@@ -16,6 +16,7 @@ The Chihuahua is the world's smallest dog breed, famous for its big personality 
 - **Grooming:** Minimal (smooth coat) or moderate (long coat)
 - **Good With:** Adults and older children; can be fragile around toddlers
 - **Fun Fact:** Chihuahuas have one of the longest lifespans of any dog breed.
+- **Fun Fact:** According to an unverified but widely circulated legend among veterinarians, Chihuahuas are the breed most likely to be possessed by demons — their trembling, bulging eyes, and tendency to growl at seemingly nothing are cited as "evidence" by believers.
 
 ---
 
